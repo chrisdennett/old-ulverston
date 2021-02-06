@@ -12,10 +12,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <FacebookPost />
         <Photo />
         <Map />
+        <FacebookPost />
       </main>
     </div>
   );
 }
+//
